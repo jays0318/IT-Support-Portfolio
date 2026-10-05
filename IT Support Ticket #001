@@ -1,0 +1,41 @@
+Issue:
+Computer is running slowly.
+
+Priority:
+Medium
+
+User Impact:
+User is experiencing slow startup and application loading.
+
+Environment:
+OS: Windows 11
+RAM: 8 GB
+Storage: 256 GB SSD
+
+Initial Investigation:
+- Checked Task Manager
+- Checked CPU utilization
+- Checked memory utilization
+- Checked disk utilization
+- Reviewed startup applications
+
+Diagnosis:
+Multiple unnecessary applications were running during startup.
+
+Resolution:
+- Disabled unnecessary startup applications
+- Removed temporary files
+- Restarted computer
+- Verified system performance
+
+Result:
+Computer performance improved.
+
+Status:
+RESOLVED
+
+Tools Used:
+- Task Manager
+- Windows Settings
+- Disk Cleanup
+- Windows Security
